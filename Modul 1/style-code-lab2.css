@@ -1,0 +1,12 @@
+.table{
+    text-align: center;
+    background: gold;
+}
+
+.table, th, td {
+    border: 1px solid;
+    padding: 5px;
+    color: #000000;
+    background-color: gold;
+    
+}

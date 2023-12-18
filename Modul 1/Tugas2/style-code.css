@@ -1,0 +1,37 @@
+body{
+    height: 1000px;
+}
+
+/* .box {
+    width: auto;
+    height: auto;
+    position: relative;
+} */
+
+.box .textOnImg .hello {
+    color: white;
+    width: 500px;
+    position: absolute;
+    top: 300px;
+    left: 125px;
+}
+
+.box .textOnImg .text {
+    color: white;
+    width: 500px;
+    position: absolute;
+    top: 360px;
+    left: 125px;
+}
+
+.spacing1{
+    margin-right: 22px;
+}
+
+.spacing2{
+    margin-right: 9px;
+}
+
+.spacing3{
+    margin-right: 10px;
+}
